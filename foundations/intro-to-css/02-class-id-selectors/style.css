@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+
+.common {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+    background-color: pink;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#bigblue {
+    color: blue;
+    font-size: 36px;
+}
+
+#boldgreen {
+    background-color: green;
+    font-weight: bold;
+}
