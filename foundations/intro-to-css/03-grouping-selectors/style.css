@@ -1,1 +1,18 @@
 /* Add CSS Styling */
+
+.helvetica {
+    font-family: 'Helvetica', sans-serif;
+}
+
+.black {
+    color: white;
+    background-color: black;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.bold {
+    font-weight: bold;
+}
